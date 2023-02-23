@@ -43,6 +43,4 @@ print('The prime numbers are: ' + str(primeNumbers))
 
 print('The non-prime numbers are: ' + str(nonPrimeNumbers))
 
-
-
 print('The original list is: ' + str(numberList))
